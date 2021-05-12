@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@zoomus/websdk": "^1.9.1"
+  }
+}
